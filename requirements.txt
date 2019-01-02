@@ -50,3 +50,4 @@ django_easy_select2
 django-endless-pagination
 django-haystack
 elasticsearch
+django-celery==3.2.2
